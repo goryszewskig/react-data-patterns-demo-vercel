@@ -1,0 +1,16 @@
+ul {
+    background-color: lightblue;
+    padding: 20px;
+
+    /* display: flex; */
+}
+
+
+li {
+    list-style: none;
+    color: white;
+    background-color: #20b2aa;
+    padding: 10px;
+    margin: 20px;
+    width: 100px;
+}
